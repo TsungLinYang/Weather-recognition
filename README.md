@@ -1,4 +1,4 @@
-# OverView
+## OverView
 This project uses a Convolutional Neural Network (CNN) to classify images into four weather categories: **cloudy**, **rain**, **shine**, and **sunrise**. It involves image preprocessing, model training and validation, prediction, and data augmentation using TensorFlow and Keras in Google Colab.
 
 
